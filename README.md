@@ -3,10 +3,11 @@
 
 # swrdata
 
-<!-- badges: start -->
-<!-- badges: end -->
+The data sets in this package are:
 
-The goal of swrdata is to …
+| Name | Description                                                                 |
+|:-----|:----------------------------------------------------------------------------|
+| bjcp | Beer style guidelines from the BJCP (Beer Judge Certification Program) 2015 |
 
 ## Installation
 
